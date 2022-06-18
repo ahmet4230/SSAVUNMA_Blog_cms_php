@@ -1,2 +1,2 @@
-- bu site de hazır bir template üzerine php entegre edinmiştir. eğitim videosundan yaralanılmıştır.
+- bu site de hazır bir template üzerine php entegre edilmiştir. eğitim videosundan yaralanılmıştır.
 savunma sanayi ile ilgili blog sayfası ve sayfa düzenlemesi için bir admin paneli vardır, sayfadan savunma sanayi ile ilgili haberleri okuyabilir ve yorum ekleyebilirsiniz. Admin panelinden veritabanına post kısmı için crud işlemleri yapılmaktadır.Aynı şekilde kategori için de geçerlidir. Blog sayfasından ilgili posta gelen yorumları buradan okuyabilir, bilgilerini öğrenebilir ve yorumu yayımlayabilirsiniz.Admin eklemek için kullanıcılar kısmından admin olacak kişiye admin rolü verilmelidir.
